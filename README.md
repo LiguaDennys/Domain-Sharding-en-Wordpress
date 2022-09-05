@@ -1,7 +1,7 @@
 # Domain-Sharding-en-Wordpress
 Bienvenido al repositorio de Dennys Ligua
 
-### Implementación de un Domain Sharding en Wordpress
+**Implementación de un Domain Sharding en Wordpress**
 
 Debe tener una cuenta en AWS las cuetas puede ser educativa o personal ademas debe de interactuar para crear una cuenta en Wordpress mediante AWS y asi aplicarla fragmentación de Dominios (Domain Sharding).
 

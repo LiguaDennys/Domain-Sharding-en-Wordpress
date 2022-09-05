@@ -21,3 +21,5 @@ Debe tener una cuenta en AWS las cuetas puede ser educativa o personal ademas de
 # Referencias en las que me base para obtener mi implementación.
 
 Video en que me base [Link](https://www.youtube.com/watch?v=YqMU7ZkL-8w&list=PLbwZq2EBFdLqblSYuDqa-RqI9iXMJePEz&index=1)
+
+Implementacion en Domain Sharding en la web [Link](https://optimizarwordpress.com/domain-sharding-configuracion/#Paso_1_Buscar_la_seccion_de_subdominios)

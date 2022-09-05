@@ -19,4 +19,4 @@ Pasos
 
 # Referencias en las que me base para obtener mi implementación.
 
-Video en que me base @Link
+Video en que me base [Link](https://www.youtube.com/watch?v=YqMU7ZkL-8w&list=PLbwZq2EBFdLqblSYuDqa-RqI9iXMJePEz&index=1)

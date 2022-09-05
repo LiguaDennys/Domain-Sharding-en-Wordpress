@@ -6,7 +6,7 @@ Debe tener una cuenta en AWS las cuetas puede ser educativa o personal ademas de
 
 ##Pasos
 
-1.Primero implementar el wordpress en el aws
+1. ITEM Primero implementar el wordpress en el aws
 2.Luego en el software cPanel buscamos la sección de dominios para crear subdominios
 3.Crear los subdominios
 4.Una vez ya creado el subdominio lo que vamos hacer es en elegir la opción plugins e instalar el aplicativo de Domain Sharding y empezar con su respectiva configuración.
